@@ -2,9 +2,11 @@
 
 In this group project printf function has been customized to take various inputs and optional arguments based exactly on how the standard library function printf works.
 
-## Synopsis
+## Prototype
 
-Prototype: int _printf(const char format, ...);
+	int _printf(const char format, ...);
+
+## Synopsis
 
 This function writes to stdout, the standard output stream with the format and options without making use of any of the standard library files. 
 
